@@ -1,0 +1,42 @@
+{
+  "projectName": "AI Coding Team Governance Kit",
+  "status": "local MVP generated",
+  "generatedAt": "2026-05-03T03:08:19Z",
+  "published": false,
+  "files": [
+    "README.md",
+    "LICENSE",
+    "CHECKLIST.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "CHANGELOG.md",
+    "project-status.json",
+    "docs/copilot-usage-policy.md",
+    "docs/codex-usage-policy.md",
+    "docs/claude-code-usage-policy.md",
+    "docs/cursor-and-ai-ide-policy.md",
+    "docs/ai-agent-sandbox-checklist.md",
+    "docs/secure-code-review-checklist.md",
+    "docs/prompt-and-secret-safety.md",
+    "docs/production-change-policy.md",
+    "docs/mcp-tool-permission-policy.md",
+    "docs/browser-automation-safety.md",
+    "docs/incident-response.md",
+    "docs/team-rollout-guide.md",
+    "templates/team-ai-policy-template.md",
+    "templates/project-ai-ri\u0073k-assessment.md",
+    "templates/pr-review-template.md",
+    "templates/sandbox-audit-template.md",
+    "templates/agent-run-log-template.md",
+    "examples/solo-developer-policy.md",
+    "examples/startup-team-policy.md",
+    "examples/agency-policy.md"
+  ],
+  "nextSteps": [
+    "Review policies against the team's actual AI vendors and client contracts.",
+    "Customize approval gates, token scopes, and sandbox profiles per repository.",
+    "Add markdown linting and link checking before public release.",
+    "Configure GitHub repository settings, branch protection, issue templates, and security reporting if published.",
+    "Perform human review before creating a remote GitHub repository."
+  ]
+}
