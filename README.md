@@ -1,6 +1,6 @@
 # AI Coding Team Governance Kit
 
-A practical, GitHub-ready governance kit for individuals and small teams using AI coding tools such as GitHub Copilot, Codex-style agents, Claude Code, Cursor, OpenCode/OpenCLI, browser automation, MCP tools, and custom automation agents.
+A practical governance kit for individuals and small teams using AI coding tools such as GitHub Copilot, Codex-style agents, Claude Code, Cursor, OpenCode/OpenCLI, browser automation, MCP tools, and custom automation agents.
 
 This project provides policy templates, checklists, review forms, and incident response playbooks to help teams adopt AI-assisted development with clear boundaries, auditability, and human accountability.
 
@@ -63,7 +63,7 @@ examples/   Example policies for solo developers, startup teams, and agencies
 
 ## Chinese Summary / 中文摘要
 
-本项目是一个“AI 编程团队治理包”本地 MVP，面向使用 GitHub Copilot、Codex、Claude Code、Cursor、MCP、浏览器自动化和自动化 Agent 的个人、小团队和外包团队。它提供英文为主的治理规范、沙箱检查清单、安全审查模板、生产变更边界、事故响应流程和团队落地指南。
+本项目是一个 AI 编程团队治理模板包，面向使用 GitHub Copilot、Codex、Claude Code、Cursor、MCP、浏览器自动化和自动化 Agent 的个人、小团队和外包团队。它提供英文为主的治理规范、沙箱检查清单、安全审查模板、生产变更边界、事故响应流程和团队落地指南。
 
 核心边界：不要把 secrets/token/API key 粘贴给 AI；生产部署、DNS、支付、客户数据、批量外联等必须人工确认；Agent 默认最小权限、可审计、可回滚。本项目只是治理模板，不是法律建议、安全认证或合规保证。
 
